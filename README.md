@@ -144,4 +144,4 @@ Next i
 
 End Sub
 
-![VBA_Challenge_2017](path/to/VBA_Challenge_2017.png)
+![VBA_Challenge_2017](https://github.com/mohannadhammoud/stock-analysis/blob/main/VBA_Challenge_2017.png)

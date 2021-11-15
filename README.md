@@ -144,4 +144,4 @@ Next i
 
 End Sub
 
-(path/to/VBA_Challenge_2017)
+![VBA_Challenge_2017](path/to/image_name.png)

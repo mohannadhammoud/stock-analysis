@@ -144,4 +144,4 @@ Next i
 
 End Sub
 
-[VBA_Challenge_2017](path/to/VBA_Challenge_2017)
+(path/to/VBA_Challenge_2017)
